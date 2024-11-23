@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C189-97EC-4E07-A672-6F76AD43CBF4}|WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\ws_convuni_soap_dotnet_clicon\\ec.edu.monster.controlador\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C189-97EC-4E07-A672-6F76AD43CBF4}|WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON.csproj|solutionrelative:ws_convuni_soap_dotnet_clicon\\ec.edu.monster.controlador\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C189-97EC-4E07-A672-6F76AD43CBF4}|WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\ws_convuni_soap_dotnet_clicon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C189-97EC-4E07-A672-6F76AD43CBF4}|WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON.csproj|solutionrelative:ws_convuni_soap_dotnet_clicon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Controlador\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WS_CONVUNI_SOAP_DOTNET_CLICON\\Controlador\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Vista\\ConversorView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WS_CONVUNI_SOAP_DOTNET_CLICON\\Vista\\ConversorView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Controlador\\ConversorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WS_CONVUNI_SOAP_DOTNET_CLICON\\Controlador\\ConversorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Modelo\\ConversorModelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WS_CONVUNI_SOAP_DOTNET_CLICON\\Modelo\\ConversorModelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\ec.edu.monster.controlador\\LoginController.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLICON\\ec.edu.monster.controlador\\LoginController.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\ec.edu.monster.controlador\\LoginController.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLICON\\ec.edu.monster.controlador\\LoginController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:35:20.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Controlador\\LoginController.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLICON\\Controlador\\LoginController.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Controlador\\LoginController.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLICON\\Controlador\\LoginController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:55:55.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConversorView.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Vista\\ConversorView.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLICON\\Vista\\ConversorView.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Vista\\ConversorView.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLICON\\Vista\\ConversorView.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwBMAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:51:49.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConversorController.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Controlador\\ConversorController.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLICON\\Controlador\\ConversorController.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Controlador\\ConversorController.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLICON\\Controlador\\ConversorController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:51:07.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConversorModelo.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Modelo\\ConversorModelo.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLICON\\Modelo\\ConversorModelo.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Modelo\\ConversorModelo.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLICON\\Modelo\\ConversorModelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:50:29.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Program.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLICON\\Program.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\WS_CONVUNI_SOAP_DOTNET_CLICON\\Program.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLICON\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:34:43.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

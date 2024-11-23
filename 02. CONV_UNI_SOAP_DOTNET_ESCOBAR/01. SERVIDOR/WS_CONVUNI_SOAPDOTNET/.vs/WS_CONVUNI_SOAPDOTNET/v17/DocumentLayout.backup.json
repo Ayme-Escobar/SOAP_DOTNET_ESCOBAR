@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15549BEB-C523-4237-A60E-46E63A5D7E16}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|c:\\conv_uni\\02. conv_uni_soap_dotnet_escobar\\01. servidor\\ws_convuni_soapdotnet\\ws_convuni_soapdotnet\\convuniservices.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15549BEB-C523-4237-A60E-46E63A5D7E16}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|solutionrelative:ws_convuni_soapdotnet\\convuniservices.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15549BEB-C523-4237-A60E-46E63A5D7E16}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\ws_convuni_soapdotnet\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{15549BEB-C523-4237-A60E-46E63A5D7E16}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|solutionrelative:ws_convuni_soapdotnet\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15549BEB-C523-4237-A60E-46E63A5D7E16}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\ws_convuni_soapdotnet\\iconvuniservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15549BEB-C523-4237-A60E-46E63A5D7E16}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|solutionrelative:ws_convuni_soapdotnet\\iconvuniservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET\\Web.config",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAPDOTNET\\Web.config",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET\\Web.config",
+              "RelativeToolTip": "WS_CONVUNI_SOAPDOTNET\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-18T15:33:59.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvUniServices.svc.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET\\ConvUniServices.svc.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAPDOTNET\\ConvUniServices.svc.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET\\ConvUniServices.svc.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAPDOTNET\\ConvUniServices.svc.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:58:48.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IConvUniServices.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET\\IConvUniServices.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAPDOTNET\\IConvUniServices.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET\\IConvUniServices.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAPDOTNET\\IConvUniServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:55:04.19Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

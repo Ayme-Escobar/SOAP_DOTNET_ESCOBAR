@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ws_convuni_soap_dotnet_cliweb\\ec.edu.monster.controlador\\convunicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|solutionrelative:ws_convuni_soap_dotnet_cliweb\\ec.edu.monster.controlador\\convunicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|c:\\conv_uni\\02. conv_uni_soap_dotnet_escobar\\02. cliweb\\ws_convuni_soap_dotnet_cliweb\\ws_convuni_soap_dotnet_cliweb\\ec.edu.monster.controlador\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|solutionrelative:ws_convuni_soap_dotnet_cliweb\\ec.edu.monster.controlador\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ws_convuni_soap_dotnet_cliweb\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|solutionrelative:ws_convuni_soap_dotnet_cliweb\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ws_convuni_soap_dotnet_cliweb\\ec.edu.monster.modelo\\conversionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|solutionrelative:ws_convuni_soap_dotnet_cliweb\\ec.edu.monster.modelo\\conversionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ws_convuni_soap_dotnet_cliweb\\views\\convuni\\convertirafahrenheit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|solutionrelative:ws_convuni_soap_dotnet_cliweb\\views\\convuni\\convertirafahrenheit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ws_convuni_soap_dotnet_cliweb\\views\\convuni\\convertirakelvin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|solutionrelative:ws_convuni_soap_dotnet_cliweb\\views\\convuni\\convertirakelvin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ws_convuni_soap_dotnet_cliweb\\views\\convuni\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|solutionrelative:ws_convuni_soap_dotnet_cliweb\\views\\convuni\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ws_convuni_soap_dotnet_cliweb\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|solutionrelative:ws_convuni_soap_dotnet_cliweb\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ws_convuni_soap_dotnet_cliweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|solutionrelative:ws_convuni_soap_dotnet_cliweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ws_convuni_soap_dotnet_cliweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|solutionrelative:ws_convuni_soap_dotnet_cliweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ws_convuni_soap_dotnet_cliweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|solutionrelative:ws_convuni_soap_dotnet_cliweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ws_convuni_soap_dotnet_cliweb\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EF1FD5C-FA33-4783-8363-FB41B43CA275}|WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB.csproj|solutionrelative:ws_convuni_soap_dotnet_cliweb\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ec.edu.monster.controlador\\AuthController.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ec.edu.monster.controlador\\AuthController.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ec.edu.monster.controlador\\AuthController.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ec.edu.monster.controlador\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:10:00.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:11:48.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Web.config",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Web.config",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Web.config",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-10T22:14:53.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConvertirAKelvin.cshtml",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\ConvUni\\ConvertirAKelvin.cshtml",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\ConvUni\\ConvertirAKelvin.cshtml",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\ConvUni\\ConvertirAKelvin.cshtml",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\ConvUni\\ConvertirAKelvin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T22:13:41.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConversionModel.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ec.edu.monster.modelo\\ConversionModel.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ec.edu.monster.modelo\\ConversionModel.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ec.edu.monster.modelo\\ConversionModel.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ec.edu.monster.modelo\\ConversionModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:45:45.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvUniController.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ec.edu.monster.controlador\\ConvUniController.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ec.edu.monster.controlador\\ConvUniController.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ec.edu.monster.controlador\\ConvUniController.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\ec.edu.monster.controlador\\ConvUniController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T22:10:51.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConvertirAFahrenheit.cshtml",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\ConvUni\\ConvertirAFahrenheit.cshtml",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\ConvUni\\ConvertirAFahrenheit.cshtml",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\ConvUni\\ConvertirAFahrenheit.cshtml",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\ConvUni\\ConvertirAFahrenheit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T22:13:07.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Web.Release.config",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Web.Release.config",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Web.Release.config",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Web.Release.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-20T02:28:58.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\ConvUni\\Index.cshtml",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\ConvUni\\Index.cshtml",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\ConvUni\\Index.cshtml",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\ConvUni\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T22:12:31.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T22:14:10.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Content\\Site.css",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Content\\Site.css",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Content\\Site.css",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Content\\Site.css",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-10T22:14:30.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T22:16:04.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIWEB\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T22:15:15.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

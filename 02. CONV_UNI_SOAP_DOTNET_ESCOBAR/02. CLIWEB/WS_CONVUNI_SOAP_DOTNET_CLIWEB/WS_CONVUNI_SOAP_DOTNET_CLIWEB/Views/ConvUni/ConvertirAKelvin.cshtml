@@ -1,0 +1,36 @@
+﻿@model WS_CONVUNI_SOAP_DOTNET_CLIWEB.ServicioConvUni.ConvUniServicesClient
+
+@{
+    ViewBag.Title = "Convertir a Kelvin";
+}
+
+<div class="main-container">
+    <h2>Convertir a Kelvin</h2>
+
+    <form method="post" action="/ConvUni/ConvertirAKelvin" class="conversion-form">
+        <div class="input-group">
+            <label for="celsius">Ingrese grados Celsius:</label>
+            <input type="text" id="celsius" name="celsius" placeholder="Ingrese grados Celsius (e.g., 45.6)" required />
+        </div>
+
+        <button type="submit" class="btn-primary">Convertir</button>
+    </form>
+
+    @if (ViewBag.Resultado != null)
+    {
+        <p class="result-message">Resultado: @ViewBag.Resultado</p>
+    }
+
+    @if (ViewBag.Error != null)
+    {
+        <p class="error-message">Error: @ViewBag.Error</p>
+    }
+
+    <button onclick="location.href='/ConvUni/Index'" class="btn-secondary">Regresar al Inicio</button>
+</div>
+
+<hr />
+
+<footer style="text-align: center; color: #666; margin-top: 20px;">
+    © 2024 - Mi aplicación ASP.NET
+</footer>

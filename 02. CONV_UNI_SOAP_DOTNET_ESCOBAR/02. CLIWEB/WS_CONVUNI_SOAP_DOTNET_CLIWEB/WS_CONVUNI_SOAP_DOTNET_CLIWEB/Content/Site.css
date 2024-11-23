@@ -1,0 +1,199 @@
+﻿/* Set padding to keep content from hitting the edges */
+.body-content {
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+body {
+    background: url('https://wallpapers.com/images/featured/monsters-inc-aa6xascr11wdiocy.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+    body::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.6); /* Opacidad del fondo, ajusta el valor para hacerlo más oscuro */
+        z-index: -1;
+    }
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Grupo de entrada */
+.input-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+/* Estilo para el campo de entrada */
+input[type="text"] {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Botones estilizados */
+.btn-primary {
+    background-color: #800080;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+    .btn-primary:hover {
+        background-color: #6a0dad;
+    }
+
+.btn-secondary {
+    background-color: #6c757d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+    .btn-secondary:hover {
+        background-color: #5a6268;
+    }
+
+/* Mensajes de resultado y error */
+.result-message {
+    color: #28a745;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.error-message {
+    color: #dc3545;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #800080;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: #6a0dad;
+    }
+
+footer {
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+}
+
+h2 {
+    color: #800080;
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+/* Contenedor principal centrado y opaco */
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    width: 90%;
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco semitransparente */
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    position: relative;
+    z-index: 1;
+}
+
+
+
+.conversion-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* Contenedor del login */
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+    width: 90%;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+    /* Título del login */
+    .login-container h2 {
+        color: #800080;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+/* Estilo para los labels */
+.login-form label {
+    color: #000;
+    font-weight: bold;
+}
+
+.input-group label {
+    color: #000;
+    font-weight: bold;
+}
+/* Formulario del login */
+.login-form {
+    width: 100%;
+}
+
+    /* Estilo para los campos de entrada */
+    .login-form .form-group {
+        margin-bottom: 15px;
+    }
+
+    .login-form input[type="text"],
+    .login-form input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 16px;
+    }

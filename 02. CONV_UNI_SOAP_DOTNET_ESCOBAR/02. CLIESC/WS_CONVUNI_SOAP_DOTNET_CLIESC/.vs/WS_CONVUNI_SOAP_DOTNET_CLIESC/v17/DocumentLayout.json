@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C84C39F-8349-491F-8CB8-24569A33B23B}|WS_CONVUNI_SOAP_DOTNET_CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC.csproj|c:\\conv_uni\\02. conv_uni_soap_dotnet_escobar\\02. cliesc\\ws_convuni_soap_dotnet_cliesc\\ws_convuni_soap_dotnet_cliesc\\ec.edu.monster.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C84C39F-8349-491F-8CB8-24569A33B23B}|WS_CONVUNI_SOAP_DOTNET_CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC.csproj|solutionrelative:ws_convuni_soap_dotnet_cliesc\\ec.edu.monster.vista\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C84C39F-8349-491F-8CB8-24569A33B23B}|WS_CONVUNI_SOAP_DOTNET_CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC.csproj|c:\\conv_uni\\02. conv_uni_soap_dotnet_escobar\\02. cliesc\\ws_convuni_soap_dotnet_cliesc\\ws_convuni_soap_dotnet_cliesc\\ec.edu.monster.modelo\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C84C39F-8349-491F-8CB8-24569A33B23B}|WS_CONVUNI_SOAP_DOTNET_CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC.csproj|solutionrelative:ws_convuni_soap_dotnet_cliesc\\ec.edu.monster.modelo\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C84C39F-8349-491F-8CB8-24569A33B23B}|WS_CONVUNI_SOAP_DOTNET_CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC.csproj|C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\ws_convuni_soap_dotnet_cliesc\\ec.edu.monster.controlador\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C84C39F-8349-491F-8CB8-24569A33B23B}|WS_CONVUNI_SOAP_DOTNET_CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC.csproj|solutionrelative:ws_convuni_soap_dotnet_cliesc\\ec.edu.monster.controlador\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\ec.edu.monster.modelo\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIESC\\ec.edu.monster.modelo\\LoginModel.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\ec.edu.monster.modelo\\LoginModel.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIESC\\ec.edu.monster.modelo\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:00:54.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\ec.edu.monster.vista\\Form1.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIESC\\ec.edu.monster.vista\\Form1.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\ec.edu.monster.vista\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIESC\\ec.edu.monster.vista\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:57:04.883Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\ec.edu.monster.controlador\\LoginController.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAP_DOTNET_CLIESC\\ec.edu.monster.controlador\\LoginController.cs",
+              "ToolTip": "C:\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_ESCOBAR\\02. CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\WS_CONVUNI_SOAP_DOTNET_CLIESC\\ec.edu.monster.controlador\\LoginController.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAP_DOTNET_CLIESC\\ec.edu.monster.controlador\\LoginController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:39:09.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
